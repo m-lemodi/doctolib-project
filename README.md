@@ -1,16 +1,19 @@
-# doctolib
+# Projet Doctolib - Umbrella
 
-A new Flutter project.
+Projet réalisé dans le cadre du cours dispensé par Doctolib à la Majeure Santé
+de l'EPITA.
 
-## Getting Started
+Les membres du groupe sont des étudiants de la Promo 2024 :
+- Elsa MOUSSET - Business Plan
+- Louis COQUERELLE - Gestion de projet
+- Manon JACQUET - Business Model
+- Merlin FAREZ - Développement
+- Océane KOLL - Graphismes
+- Thomas SANCHEZ - Développement
 
-This project is a starting point for a Flutter application.
+## Comment tester le projet ?
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Pour tester le projet localement il est nécessaire d'avoir d'installé la
+dernière version de Flutter et AndroidStudio.
+Il est ainsi possible de build sur une VM ou directement sur un appareil Android
+connecté en USB.
